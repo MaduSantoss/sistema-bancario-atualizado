@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Projeto-Concluído-green)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![License](https://img.shields.io/badge/Licença-MIT-blue.svg)
+
 
 > Sistema bancário simples desenvolvido em **Python**, com funcionalidades essenciais como **depósitos**, **saques**, **extrato**, **cadastro de usuários** e **criação de contas**.
 > Ideal para iniciantes praticarem conceitos de **lógica de programação**, **funções**, **estruturas condicionais**, **listas** e **manipulação de dados**.
@@ -48,13 +48,13 @@
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-bancario-python.git
+git clone https://github.com/MaduSantoss/sistema-bancario-atualizado
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd sistema-bancario-python
+cd sistema-bancario-atualizado
 ```
 
 3. Execute o script:
@@ -73,9 +73,3 @@ Contribuições são bem-vindas!
 Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request** com sugestões, melhorias ou correções.
 
 ---
-* Criar uma **descrição curta** para o GitHub
-* Ajustar para um **desafio da DIO**
-* Traduzir para **inglês**
-* Sugerir o **melhor nome de repositório**
-
-É só falar 😊
